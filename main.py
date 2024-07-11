@@ -46,7 +46,7 @@ if adhaan_data.status_code == 200:
         for prayer, time_12h in timings.items():
             if prayer == "Sunrise" or prayer == "Sunset":
                 print(f"{prayer}: {time_12h}")
-        print("\nAlright Goodbye!")
+        print("\nAlright Goodbye!, changes work!")
     else:
         print("\nAlright Goodbye!")
 
