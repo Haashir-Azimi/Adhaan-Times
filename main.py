@@ -4,7 +4,7 @@ import datetime
 print("Welcome to Haashir's Adhaan Timing API!")
 
 city = input("\nType your city: ")
-country = input("Ty;pe your country: ")
+country = input("Type your country: ")
 
 # School of Though Dictionary
 sot = {1: "University of Islamic Sciences, Karachi", 2: "Islamic Society of North America", 3: "Muslim World League",
